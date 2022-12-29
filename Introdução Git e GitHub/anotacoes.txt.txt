@@ -1,1 +1,9 @@
-links para download: 
+git clone + endereço origin
+git status no repositório estará vermelho
+git add . para ser enviado ao versionamento
+git status no repositório estará verde
+Adicionado no controle de versão local
+
+git commit -m "...comentário..."
+git push origin main
+Adicionado no versionamento da núvem
